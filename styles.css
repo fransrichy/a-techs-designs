@@ -139,7 +139,7 @@ a:hover {
 }
 
 .logo img {
-    height: 40px; /* Adjust as needed */
+    height: 60px; /* Adjust as needed */
     width: auto;
 }
 
@@ -171,8 +171,8 @@ a:hover {
 /* Hero Section */
 .hero-section {
     /* IMPORTANT: Replace 'path/to/your/hero-background.jpg' with your actual image path */
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('1.jpg') no-repeat center center/cover;
-    height: 85vh; /* Adjust height as needed */
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('Background.jpg') no-repeat center center/cover;
+    height: 90vh; /* Adjust height as needed */
     display: flex;
     justify-content: center;
     align-items: center;
